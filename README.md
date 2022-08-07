@@ -9,9 +9,10 @@
 
 
 ## Contributors ♥
-<a href="https://github.com/Sneh027/DSA/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Sneh027/DSA" />
+<a href="https://github.com/sneh-chauhan/DSA/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sneh-chauhan/DSA" />
 </a>
+
 
 
 ## Vote of Thanks🙏
